@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\bin\Debug\netcoreapp3.1\TasKagitMakasBleach.exe
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\bin\Debug\netcoreapp3.1\TasKagitMakasBleach.deps.json
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\bin\Debug\netcoreapp3.1\TasKagitMakasBleach.runtimeconfig.json
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\bin\Debug\netcoreapp3.1\TasKagitMakasBleach.runtimeconfig.dev.json
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\bin\Debug\netcoreapp3.1\TasKagitMakasBleach.dll
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\bin\Debug\netcoreapp3.1\TasKagitMakasBleach.pdb
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.Form1.resources
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.AssemblyInfo.cs
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.dll
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.pdb
+C:\Users\user\source\repos\TasKagitMakasBleach\TasKagitMakasBleach\obj\Debug\netcoreapp3.1\TasKagitMakasBleach.genruntimeconfig.cache
